@@ -1,6 +1,6 @@
 # Hi, I'm Yassen Mohamed 👋
 
-### Computer Science Student | Back-End Developer | Software Developer
+### Computer Science Student | Back-End Developer | Software Engineering 
 
 I'm a Computer Science student with a strong interest in software
 development, backend engineering, IT, and emerging AI technologies.
